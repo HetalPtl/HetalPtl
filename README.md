@@ -59,7 +59,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/hetal-patel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hetal-patel-088786285/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
 
 <a href="mailto:hetalpatel20003@gmail.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px"/>
