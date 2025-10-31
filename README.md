@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Front-End+Designer;Tech+Explorer;Future+Software+Engineer+🚀" />
 </h3>
 
-<p align="center">
-  <img src="D:\101NZ_30\anime.jpg" width="420" alt="girl coding animation"/>
-
-</p>
 
 ---
 
