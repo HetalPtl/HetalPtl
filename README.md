@@ -4,7 +4,8 @@
 </h3>
 
 <p align="center">
-  <img src=""D:\101NZ_30\anime.jpg"" width="420" alt="girl coding animation"/>
+  <img src="D:\101NZ_30\anime.jpg" width="420" alt="girl coding animation"/>
+
 </p>
 
 ---
