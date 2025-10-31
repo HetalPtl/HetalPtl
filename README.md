@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hetal Patel</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Front-End+Designer;Cyber+Security+Learner;Tech+Explorer;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Front-End+Designer;Tech+Explorer;Future+Software+Engineer+🚀" />
 </h3>
 
 
