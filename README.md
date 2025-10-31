@@ -3,12 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Front-End+Designer;Tech+Explorer;Future+Software+Engineer+🚀" />
 </h3>
 
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="420" alt="coding animation"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="420" alt="coding animation"/>
 </p>
-
 ---
 
 ### 🚀 About Me
