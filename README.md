@@ -64,8 +64,8 @@
 <a href="mailto:hetalpatel20003@gmail.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px"/>
 </a>
- <a href="https://www.geeksforgeeks.org/user/amitpatel07/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GFG"/></a>
-<a href="https://leetcode.com/u/AmitPatel4084/" target="_blank">
+ <a href="https://www.geeksforgeeks.org/user/hetalpatel20003/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GFG"/></a>
+<a href="https://leetcode.com/u/hetalptll_2314/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg" width="40px"/>
 </a>
  </p>
